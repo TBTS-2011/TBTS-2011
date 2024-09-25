@@ -13,36 +13,12 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Java  <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Bootstrap <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Semantic Web development <br><br>
-<!--
-<table border="1"> 
-        <tr> 
-            <th>Image</th> 
-            <th>Name</th> 
-            <th>Email</th> 
-        </tr> 
-        <tr> 
-            <td><img src= 
-"https://www.socialmediadissect.com/wp-content/uploads/2023/09/robot-logo.png" alt="Rocket" alt="Android" width="100" height="100"> 
-            </td> 
-            <td>XYZ</td> 
-            <td>xyz@geeksforgeeks.org</td> 
-        </tr> 
-        <tr> 
-            <td><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
-                alt="GFG Logo" width="100" 
-                height="100"> 
-            </td> 
-            <td>ABC</td> 
-            <td>abc@geeksforgeeks.org</td> 
-        </tr> 
-    </table>
--->
+
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" height="35" /> Programming Platforms such as: <br><br></h3>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Visual Studio Code (Insider edition, Community and Visual Studio) <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Android Studio <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> SpringBoot suite and
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> SpringTool suite and
 much more to create and test out new projects that are about to be posted on GitHub.
   
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="35" height="35" /> We're looking to collaborate on projects involving many friendly reviewers teaming to collaborate and contribute to some important commits, and who need a Beta Tester and added support.</h3>
