@@ -2,7 +2,7 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="69" height="69" /> Hello, we're The Beta Testing Studios!</h1><br>
 </div>
 
-<img src="https://github.com/user-attachments/assets/4da77dfb-ea49-49eb-ba1a-ba3f7f89fcc9" width="175" height="130">
+<img src="https://github.com/user-attachments/assets/4da77dfb-ea49-49eb-ba1a-ba3f7f89fcc9" width="275" height="200">
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="35" height="35" /> We're interested in coding and robotics and are looking forward to working with many friendly collaborators out there on GitHub needing a Beta Tester.</h3>
   
