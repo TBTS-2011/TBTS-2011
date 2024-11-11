@@ -4,7 +4,9 @@
 
 <img src="https://github.com/user-attachments/assets/4da77dfb-ea49-49eb-ba1a-ba3f7f89fcc9" width="300" height="200">
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="35" height="35" /> Our team has a deep-rooted passion for programming, with a particular focus on software development, quality assurance, and Beta Testing. We are highly motivated to establish partnerships with a diverse range of collaborators on GitHub seeking reliable beta testing services. Our goal is to contribute our expertise and resources to assist in fine-tuning and optimizing software products in various stages of development.</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="35" height="35" /> Our team has a deep-rooted passion for programming, with a particular focus on software development, quality assurance, and Beta Testing. 
+<br><br> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="35" height="35" /> We are highly motivated to establish partnerships with a diverse range of collaborators on GitHub seeking reliable beta testing services. Our goal is to contribute our expertise and resources to assist in fine-tuning and optimizing software products in various stages of development.</h3>
   
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="35" height="35" /> We prefer to learn & use Programming languages such as: <br><br></h3>
 
